@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Pr8\Pr8\bin\Debug\Pr8.exe.config
+C:\Users\User\source\repos\Pr8\Pr8\bin\Debug\Pr8.exe
+C:\Users\User\source\repos\Pr8\Pr8\bin\Debug\Pr8.pdb
+C:\Users\User\source\repos\Pr8\Pr8\obj\Debug\Pr8.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Pr8\Pr8\obj\Debug\Pr8.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pr8\Pr8\obj\Debug\Pr8.exe
+C:\Users\User\source\repos\Pr8\Pr8\obj\Debug\Pr8.pdb
+C:\Users\IRU\Desktop\3-4\3\Pr8\Pr8\bin\Debug\Pr8.exe.config
+C:\Users\IRU\Desktop\3-4\3\Pr8\Pr8\bin\Debug\Pr8.exe
+C:\Users\IRU\Desktop\3-4\3\Pr8\Pr8\bin\Debug\Pr8.pdb
+C:\Users\IRU\Desktop\3-4\3\Pr8\Pr8\obj\Debug\Pr8.csprojAssemblyReference.cache
+C:\Users\IRU\Desktop\3-4\3\Pr8\Pr8\obj\Debug\Pr8.csproj.CoreCompileInputs.cache
+C:\Users\IRU\Desktop\3-4\3\Pr8\Pr8\obj\Debug\Pr8.exe
+C:\Users\IRU\Desktop\3-4\3\Pr8\Pr8\obj\Debug\Pr8.pdb

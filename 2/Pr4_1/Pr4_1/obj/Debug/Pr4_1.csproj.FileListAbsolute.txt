@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Pr4_1\Pr4_1\bin\Debug\Pr4_1.exe.config
+C:\Users\User\source\repos\Pr4_1\Pr4_1\bin\Debug\Pr4_1.exe
+C:\Users\User\source\repos\Pr4_1\Pr4_1\bin\Debug\Pr4_1.pdb
+C:\Users\User\source\repos\Pr4_1\Pr4_1\obj\Debug\Pr4_1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Pr4_1\Pr4_1\obj\Debug\Pr4_1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pr4_1\Pr4_1\obj\Debug\Pr4_1.exe
+C:\Users\User\source\repos\Pr4_1\Pr4_1\obj\Debug\Pr4_1.pdb
+C:\Users\IRU\Desktop\2\Pr4_1\Pr4_1\bin\Debug\Pr4_1.exe.config
+C:\Users\IRU\Desktop\2\Pr4_1\Pr4_1\bin\Debug\Pr4_1.exe
+C:\Users\IRU\Desktop\2\Pr4_1\Pr4_1\bin\Debug\Pr4_1.pdb
+C:\Users\IRU\Desktop\2\Pr4_1\Pr4_1\obj\Debug\Pr4_1.csprojAssemblyReference.cache
+C:\Users\IRU\Desktop\2\Pr4_1\Pr4_1\obj\Debug\Pr4_1.csproj.CoreCompileInputs.cache
+C:\Users\IRU\Desktop\2\Pr4_1\Pr4_1\obj\Debug\Pr4_1.exe
+C:\Users\IRU\Desktop\2\Pr4_1\Pr4_1\obj\Debug\Pr4_1.pdb

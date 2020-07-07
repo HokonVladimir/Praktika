@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Pr6_4\Pr6_4\bin\Debug\Pr6_4.exe.config
+C:\Users\User\source\repos\Pr6_4\Pr6_4\bin\Debug\Pr6_4.exe
+C:\Users\User\source\repos\Pr6_4\Pr6_4\bin\Debug\Pr6_4.pdb
+C:\Users\User\source\repos\Pr6_4\Pr6_4\obj\Debug\Pr6_4.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Pr6_4\Pr6_4\obj\Debug\Pr6_4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pr6_4\Pr6_4\obj\Debug\Pr6_4.exe
+C:\Users\User\source\repos\Pr6_4\Pr6_4\obj\Debug\Pr6_4.pdb
+C:\Users\IRU\Desktop\2\Pr6_4\Pr6_4\bin\Debug\Pr6_4.exe.config
+C:\Users\IRU\Desktop\2\Pr6_4\Pr6_4\bin\Debug\Pr6_4.exe
+C:\Users\IRU\Desktop\2\Pr6_4\Pr6_4\bin\Debug\Pr6_4.pdb
+C:\Users\IRU\Desktop\2\Pr6_4\Pr6_4\obj\Debug\Pr6_4.csprojAssemblyReference.cache
+C:\Users\IRU\Desktop\2\Pr6_4\Pr6_4\obj\Debug\Pr6_4.csproj.CoreCompileInputs.cache
+C:\Users\IRU\Desktop\2\Pr6_4\Pr6_4\obj\Debug\Pr6_4.exe
+C:\Users\IRU\Desktop\2\Pr6_4\Pr6_4\obj\Debug\Pr6_4.pdb

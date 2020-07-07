@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Практика (Наташа)\Проекты\3 неделя\Pr10_WF\Pr10_WF\bin\Debug\Pr10_WF.exe.config
+C:\Users\User\Desktop\Практика (Наташа)\Проекты\3 неделя\Pr10_WF\Pr10_WF\bin\Debug\Pr10_WF.exe
+C:\Users\User\Desktop\Практика (Наташа)\Проекты\3 неделя\Pr10_WF\Pr10_WF\bin\Debug\Pr10_WF.pdb
+C:\Users\User\Desktop\Практика (Наташа)\Проекты\3 неделя\Pr10_WF\Pr10_WF\obj\Debug\Pr10_WF.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Практика (Наташа)\Проекты\3 неделя\Pr10_WF\Pr10_WF\obj\Debug\Pr10_WF.Form1.resources
+C:\Users\User\Desktop\Практика (Наташа)\Проекты\3 неделя\Pr10_WF\Pr10_WF\obj\Debug\Pr10_WF.Properties.Resources.resources
+C:\Users\User\Desktop\Практика (Наташа)\Проекты\3 неделя\Pr10_WF\Pr10_WF\obj\Debug\Pr10_WF.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Практика (Наташа)\Проекты\3 неделя\Pr10_WF\Pr10_WF\obj\Debug\Pr10_WF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Практика (Наташа)\Проекты\3 неделя\Pr10_WF\Pr10_WF\obj\Debug\Pr10_WF.exe
+C:\Users\User\Desktop\Практика (Наташа)\Проекты\3 неделя\Pr10_WF\Pr10_WF\obj\Debug\Pr10_WF.pdb

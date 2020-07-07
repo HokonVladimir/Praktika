@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Pr7_1\Pr7_1\bin\Debug\Pr7_1.exe.config
+C:\Users\User\source\repos\Pr7_1\Pr7_1\bin\Debug\Pr7_1.exe
+C:\Users\User\source\repos\Pr7_1\Pr7_1\bin\Debug\Pr7_1.pdb
+C:\Users\User\source\repos\Pr7_1\Pr7_1\obj\Debug\Pr7_1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Pr7_1\Pr7_1\obj\Debug\Pr7_1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pr7_1\Pr7_1\obj\Debug\Pr7_1.exe
+C:\Users\User\source\repos\Pr7_1\Pr7_1\obj\Debug\Pr7_1.pdb
+C:\Users\IRU\Desktop\3-4\3\Pr7_1\Pr7_1\bin\Debug\Pr7_1.exe.config
+C:\Users\IRU\Desktop\3-4\3\Pr7_1\Pr7_1\bin\Debug\Pr7_1.exe
+C:\Users\IRU\Desktop\3-4\3\Pr7_1\Pr7_1\bin\Debug\Pr7_1.pdb
+C:\Users\IRU\Desktop\3-4\3\Pr7_1\Pr7_1\obj\Debug\Pr7_1.csprojAssemblyReference.cache
+C:\Users\IRU\Desktop\3-4\3\Pr7_1\Pr7_1\obj\Debug\Pr7_1.csproj.CoreCompileInputs.cache
+C:\Users\IRU\Desktop\3-4\3\Pr7_1\Pr7_1\obj\Debug\Pr7_1.exe
+C:\Users\IRU\Desktop\3-4\3\Pr7_1\Pr7_1\obj\Debug\Pr7_1.pdb

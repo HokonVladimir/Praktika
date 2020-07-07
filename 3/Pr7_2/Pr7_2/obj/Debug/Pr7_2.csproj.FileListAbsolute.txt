@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Pr7_2\Pr7_2\bin\Debug\Pr7_2.exe.config
+C:\Users\User\source\repos\Pr7_2\Pr7_2\bin\Debug\Pr7_2.exe
+C:\Users\User\source\repos\Pr7_2\Pr7_2\bin\Debug\Pr7_2.pdb
+C:\Users\User\source\repos\Pr7_2\Pr7_2\obj\Debug\Pr7_2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pr7_2\Pr7_2\obj\Debug\Pr7_2.exe
+C:\Users\User\source\repos\Pr7_2\Pr7_2\obj\Debug\Pr7_2.pdb
+C:\Users\IRU\Desktop\3-4\3\Pr7_2\Pr7_2\bin\Debug\Pr7_2.exe.config
+C:\Users\IRU\Desktop\3-4\3\Pr7_2\Pr7_2\bin\Debug\Pr7_2.exe
+C:\Users\IRU\Desktop\3-4\3\Pr7_2\Pr7_2\bin\Debug\Pr7_2.pdb
+C:\Users\IRU\Desktop\3-4\3\Pr7_2\Pr7_2\obj\Debug\Pr7_2.csprojAssemblyReference.cache
+C:\Users\IRU\Desktop\3-4\3\Pr7_2\Pr7_2\obj\Debug\Pr7_2.csproj.CoreCompileInputs.cache
+C:\Users\IRU\Desktop\3-4\3\Pr7_2\Pr7_2\obj\Debug\Pr7_2.exe
+C:\Users\IRU\Desktop\3-4\3\Pr7_2\Pr7_2\obj\Debug\Pr7_2.pdb

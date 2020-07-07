@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Pr9_2\Pr9_2\bin\Debug\Pr9_2.exe.config
+C:\Users\User\source\repos\Pr9_2\Pr9_2\bin\Debug\Pr9_2.exe
+C:\Users\User\source\repos\Pr9_2\Pr9_2\bin\Debug\Pr9_2.pdb
+C:\Users\User\source\repos\Pr9_2\Pr9_2\obj\Debug\Pr9_2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Pr9_2\Pr9_2\obj\Debug\Pr9_2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pr9_2\Pr9_2\obj\Debug\Pr9_2.exe
+C:\Users\User\source\repos\Pr9_2\Pr9_2\obj\Debug\Pr9_2.pdb
+C:\Users\IRU\Desktop\3-4\3\Pr9_2\Pr9_2\bin\Debug\Pr9_2.exe.config
+C:\Users\IRU\Desktop\3-4\3\Pr9_2\Pr9_2\bin\Debug\Pr9_2.exe
+C:\Users\IRU\Desktop\3-4\3\Pr9_2\Pr9_2\bin\Debug\Pr9_2.pdb
+C:\Users\IRU\Desktop\3-4\3\Pr9_2\Pr9_2\obj\Debug\Pr9_2.csprojAssemblyReference.cache
+C:\Users\IRU\Desktop\3-4\3\Pr9_2\Pr9_2\obj\Debug\Pr9_2.csproj.CoreCompileInputs.cache
+C:\Users\IRU\Desktop\3-4\3\Pr9_2\Pr9_2\obj\Debug\Pr9_2.exe
+C:\Users\IRU\Desktop\3-4\3\Pr9_2\Pr9_2\obj\Debug\Pr9_2.pdb
