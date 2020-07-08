@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Pr11\Pr11\bin\Debug\Pr11.exe.config
+C:\Users\User\source\repos\Pr11\Pr11\bin\Debug\Pr11.exe
+C:\Users\User\source\repos\Pr11\Pr11\bin\Debug\Pr11.pdb
+C:\Users\User\source\repos\Pr11\Pr11\obj\Debug\Pr11.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Pr11\Pr11\obj\Debug\Pr11.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Pr11\Pr11\obj\Debug\Pr11.exe
+C:\Users\User\source\repos\Pr11\Pr11\obj\Debug\Pr11.pdb
+C:\Users\IRU\Desktop\3-4\4\Pr11\Pr11\bin\Debug\Pr11.exe.config
+C:\Users\IRU\Desktop\3-4\4\Pr11\Pr11\bin\Debug\Pr11.exe
+C:\Users\IRU\Desktop\3-4\4\Pr11\Pr11\bin\Debug\Pr11.pdb
+C:\Users\IRU\Desktop\3-4\4\Pr11\Pr11\obj\Debug\Pr11.csprojAssemblyReference.cache
+C:\Users\IRU\Desktop\3-4\4\Pr11\Pr11\obj\Debug\Pr11.csproj.CoreCompileInputs.cache
+C:\Users\IRU\Desktop\3-4\4\Pr11\Pr11\obj\Debug\Pr11.exe
+C:\Users\IRU\Desktop\3-4\4\Pr11\Pr11\obj\Debug\Pr11.pdb
